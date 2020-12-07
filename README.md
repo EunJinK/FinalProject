@@ -2,6 +2,7 @@
 ## KPU
 - 안드로이드 어플리케이션 개발환경
     |:---------:|:------------------:|
+    |구분|내용|
     |OS|Windows 10 education|
     |Language|JAVA, php|
     |IDE|Android Studio 4.0|
@@ -12,6 +13,7 @@
 
 - 아두이노 개발환경
     |:---------:|:------------------:|
+    |구분|내용|
     |OS|Windows 10 education|
     |Language|C|
     |IDE|Arduino IDE|

@@ -67,5 +67,5 @@
 <img src="https://user-images.githubusercontent.com/59238838/101481678-e1bcef80-3998-11eb-90fe-9462bd35250c.png" width="180" height="300">
 </div>
 <samp>
-	반납/예약전상태(왼),   예약상태(왼쪽두번째),   외출상태(오른쪽두번째),   푸쉬알림(오)
+	반납/예약전상태(왼),   예약상태(가운데),   외출상태(오),   푸쉬알림(아래)
 </samp>

@@ -53,9 +53,9 @@
   
 ## 어플결과
 <div>
-<img src="https://user-images.githubusercontent.com/59238838/101481669-df5a9580-3998-11eb-9cbc-e64fb109d250.PNG" width="200" height="300">
-<img src="https://user-images.githubusercontent.com/59238838/101481666-dd90d200-3998-11eb-8808-e161b9447162.PNG" width="200" height="300">	
-<img src="https://user-images.githubusercontent.com/59238838/101481680-e2558600-3998-11eb-9fdb-d4ac9c1a6654.PNG" width="200" height="300">
+<img src="https://user-images.githubusercontent.com/59238838/101481669-df5a9580-3998-11eb-9cbc-e64fb109d250.PNG" width="180" height="300">
+<img src="https://user-images.githubusercontent.com/59238838/101481666-dd90d200-3998-11eb-8808-e161b9447162.PNG" width="180" height="300">	
+<img src="https://user-images.githubusercontent.com/59238838/101481680-e2558600-3998-11eb-9fdb-d4ac9c1a6654.PNG" width="180" height="300">
 </div>
 <samp>
 	로딩화면(왼),   로그인화면(가운데),   회원가입화면(오)
